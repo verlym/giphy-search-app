@@ -11,7 +11,7 @@ Open [https://brilliant-elf-bc3b4d.netlify.app/](https://brilliant-elf-bc3b4d.ne
 1. Home Page
 2. Iron Man Giphy
 3. Search Bar Giphy 
-4. Gif Item & Gif List
+4. Gif Item & Gif List (Maximum 9 Items)
 5. Mobile Responsive 
 6. Deploy to Netlify
 
