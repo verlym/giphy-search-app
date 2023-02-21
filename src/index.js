@@ -76,7 +76,7 @@ class App extends React.Component {
         </Space>
         </div>
         {!this.state.isIronMan && <SearchBar onTermChange={(term) => this.handleTermChange(term)} />}
-        git commit -m "First commit"        <GifList
+        <GifList
           gifs={this.state.gifs}
           onGifSelect={(selectedGif) => this.openModal(selectedGif)}
         />
