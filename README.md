@@ -13,5 +13,6 @@ Open [https://brilliant-elf-bc3b4d.netlify.app/](https://brilliant-elf-bc3b4d.ne
 3. Search Bar Giphy 
 4. Gif Item & Gif List
 5. Mobile Responsive 
+6. Deploy to Netlify
 
 Thank You!
