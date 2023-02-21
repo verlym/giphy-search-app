@@ -5,7 +5,7 @@ In order to finish technical test from Skilvul for Mentor FE - KM Batch IV.
 ## Available Online
 
 Runs the app in the production mode.\
-Open [https://app.netlify.com/sites/brilliant-elf-bc3b4d/deploys](https://app.netlify.com/sites/brilliant-elf-bc3b4d/deploys) to view it in your browser.
+Open [https://brilliant-elf-bc3b4d.netlify.app/](https://brilliant-elf-bc3b4d.netlify.app/) to view it in your browser.
 
 ## Features have been done (all features is done):
 1. Home Page
